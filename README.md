@@ -1,5 +1,6 @@
 Hi, I'm Nusrat Jahan Farin!  
 🎓 A Computer Science graduate from  from <strong>BRAC University</strong>  learning to bridge data and design through meaningful user experiences
+
 📫 Reach me at: <strong>nusratjahanfarin.work@gmail.com</strong>
 
 ---
